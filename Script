@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AimhubUpdate?token=GHSAT0AAAAAADR7PHLUYHW5TS2ELDP6WWWY2KPA2GA", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AimhubUpdate?token=GHSAT0AAAAAADR7PHLUABBHDYW4NK7SY4XU2KPA5LQ", true))()
