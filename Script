@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AimhubUpdate?token=GHSAT0AAAAAADR7PHLUABBHDYW4NK7SY4XU2KPA5LQ", true))()
+wait("0.2")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AimhubUpdate?token=GHSAT0AAAAAADR7PHLV5QPZB7CPSADHCN5O2KPA6YQ", true))()
