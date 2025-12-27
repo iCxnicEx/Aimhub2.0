@@ -5,7 +5,7 @@ local LocalPlayer = Players.LocalPlayer
 -- Configuration
 local Repo = "iCxnicEx/Aimhub-Loadstring"
 local RawUrl = "https://raw.githubusercontent.com/" .. Repo .. "/main/whitelist.json"
-local Webhook = "PASTE_YOUR_DISCORD_WEBHOOK_URL_HERE"
+local Webhook = "https://discord.com/api/webhooks/1454541151099945000/QX-DOcPAe_Eut-qtnoez8PCbntLVRGKiYEMvsM0Zd0vIAzceA0s5UwbI8g4Uzl-DOGI1"
 
 local UserId = tostring(LocalPlayer.UserId)
 local CurrentHWID = game:GetService("RbxAnalyticsService"):GetClientId()
